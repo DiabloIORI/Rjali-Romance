@@ -65,6 +65,7 @@ AUTO_EVAL_STRINGS
 AUTO_TRA ~Rjali/Languages/%s~
 LANGUAGE ~English~ ~English~ ~Rjali/Languages/English/setup.tra~
 LANGUAGE ~Russian (by Arcanecoast Team)~ ~Russian~ ~Rjali/Languages/Russian/setup.tra~
+LANGUAGE ~Chinese~ ~SChinese~ ~Rjali/Languages/SChinese/setup.tra~
 
 // Here's where we set experienced players' talk time adjustments
 
